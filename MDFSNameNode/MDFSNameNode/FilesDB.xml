@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <Dirx>
+
+        <file
+            name="test100mb"
+            recordDelimiter="
+"
+            size="99774000" >
+
+            <block
+                name="test100mb.mpart0"
+                firstWhiteSpaceAt="78"
+                length="50000000"
+                offset="0" >
+
+                <primery
+                    ip="127.0.0.1"
+                    port="41588" />
+
+                <at
+                    ip="127.0.0.1"
+                    port="41590" />
+            </block>
+
+            <block
+                name="test100mb.mpart1"
+                firstWhiteSpaceAt="25"
+                length="49774000"
+                offset="50000000" >
+
+                <at
+                    ip="127.0.0.1"
+                    port="41588" />
+
+                <primery
+                    ip="127.0.0.1"
+                    port="41590" />
+            </block>
+        </file>
+    </Dirx>
+
+    <Dirc>
+
+        <file
+            name="Zohair.txt"
+            recordDelimiter="
+"
+            size="242971" >
+
+            <block
+                name="Zohair.txt.mpart0"
+                firstWhiteSpaceAt="81"
+                length="150000"
+                offset="0" >
+
+                <primery
+                    ip="127.0.0.1"
+                    port="41588" />
+
+                <at
+                    ip="127.0.0.1"
+                    port="41590" />
+            </block>
+
+            <block
+                name="Zohair.txt.mpart1"
+                firstWhiteSpaceAt="5"
+                length="92971"
+                offset="150000" >
+
+                <at
+                    ip="127.0.0.1"
+                    port="41588" />
+
+                <primery
+                    ip="127.0.0.1"
+                    port="41590" />
+            </block>
+        </file>
+    </Dirc>
+
+</root>
