@@ -1,6 +1,8 @@
 # Light-Weight-MapReduce
 Light Weight MapReduce is a heterogeneous platform to perform computationally expensive tasks collaboratively.
 
+![Alt text](/Light-Weight-MapReduce/Assets/LightWeightMapReduce.png?raw=true "Overview")
+
 Setup Guide:
 
 	1.	Change the IP address of host computer in Data Nodes and Task Tracker.
