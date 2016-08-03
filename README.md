@@ -1,7 +1,7 @@
 # Light-Weight-MapReduce
 Light Weight MapReduce is a heterogeneous platform to perform computationally expensive tasks collaboratively.
 
-![Alt text](/Light-Weight-MapReduce/Assets/LightWeightMapReduce.png?raw=true "Overview")
+![Alt text](/Assets/LightWeightMapReduce.png?raw=true "Overview")
 
 Setup Guide:
 
